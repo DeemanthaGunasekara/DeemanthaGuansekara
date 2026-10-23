@@ -16,13 +16,14 @@
 
 ### 👨‍💻 About Me
 
-I am a second-year Information Technology undergraduate with a strong passion for **Cloud Computing and DevOps**, backed by solid object-oriented programming fundamentals in **Java**. I am actively expanding into full-stack and mobile development while mastering modern deployment pipelines, containerization, and cloud infrastructure.
+I am a second-year Information Technology undergraduate with a strong passion for **Cloud Computing and DevOps**, backed by solid object-oriented programming fundamentals in **Java**. I enjoy building practical software, learning modern deployment pipelines, and continuously improving my engineering skills.
 
 - 🎓 **Academics**: 2nd Year IT Undergraduate
-- ☁️ **Passions**: Cloud platforms, DevOps culture, CI/CD automation, and Linux systems
-- 🌱 **Currently Learning & Exploring**: **Node.js**, **React**, **Expo** (mobile app development), **Docker**, and **AWS**
-- 💻 **Core Foundation**: Java, PHP, and Web fundamentals
-- 💬 **Ask me about**: Java, full-stack concepts, and my learning journey in Cloud & DevOps
+- 🛠️ **Currently Building**: A **Configurable SaaS Platform** — exploring dynamic configurations, modular architecture, and multi-tenant workflows.
+- 💡 **Learning Through This**: Role-based access control (RBAC), building REST APIs with Node.js, modern React state management, and Dockerizing environments.
+- ☁️ **Passions**: Cloud platforms, DevOps culture, CI/CD automation, and Linux systems.
+- 🌱 **Technologies in Progress**: **Node.js**, **React**, **Expo**, **Docker**, and **AWS**.
+- 💬 **Ask me about**: Java, web development fundamentals, and my Cloud/DevOps learning journey.
 
 ---
 
@@ -33,7 +34,7 @@ I am a second-year Information Technology undergraduate with a strong passion fo
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,githubactions,bash&theme=dark" alt="Cloud & DevOps Skills" />
 </p>
 
-**Frameworks & Libraries (Currently Learning)**  
+**Frameworks & Libraries (Currently Learning & Building With)**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,expo&theme=dark" alt="Learning Node.js, React, Expo" />
 </p>
@@ -54,6 +55,7 @@ I am a second-year Information Technology undergraduate with a strong passion fo
 
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
+| **Configurable SaaS Platform** *(WIP)* | `React` `Node.js` `Docker` | Multi-tenant platform exploring dynamic user configurations, access control, and containerization. |
 | **[Kickbots-Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `Embedded` `Hardware` | Microcontroller-based hardware & robotics project. |
 | **[Web-App](https://github.com/DeemanthaGunasekara/Web-App)** | `PHP` `Backend` | Full-stack web application exploring server-side architecture and data management. |
 | **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `Web` | Collaborative frontend interface development and modern UI practices. |
